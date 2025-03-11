@@ -20,7 +20,7 @@ on:
         required: false
         default: 'false'
   schedule:
-    - cron: 0 19 26 */3 *
+    - cron: 0 21 26 */1 *
   #push:
 
 env:
